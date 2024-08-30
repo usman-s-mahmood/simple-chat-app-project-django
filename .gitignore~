@@ -1,0 +1,15 @@
+# virtual environment
+virt/
+venv/
+# Vim temp files
+*.un~
+*.swp
+*.swo
+*.swn
+# temp and cache files
+misc/
+temp/
+# multimedia files
+*.mp4
+*.mp3
+*.mkv
