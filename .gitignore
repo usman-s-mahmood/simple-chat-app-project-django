@@ -6,6 +6,7 @@ venv/
 *.swp
 *.swo
 *.swn
+*.~
 # temp and cache files
 misc/
 temp/
